@@ -27,4 +27,6 @@ jobs:
       uses: actions/upload-artifact@v4
       with:
         name: income-calculator-build
-        path: out/make/squirrel.windows/x64/*.exe
+        path: |
+          out/make/squirrel.windows/x64/*.exe
+          out/make/zip/win32/x64/*.zip
