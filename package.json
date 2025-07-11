@@ -2,6 +2,7 @@
   "name": "income-calculator",
   "productName": "IncomeCalculator",
   "version": "1.0.0",
+  "author": "Feiton Ng",
   "description": "入金计算机 - Electron",
   "main": "src/main.js",
   "scripts": {
